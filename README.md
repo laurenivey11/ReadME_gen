@@ -10,6 +10,13 @@
     * [Credits](#credits)
     * [License](#license)
 
+    ## Table of Contents
+
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
+
     ## Description
 
     This a way to easy and effectively make a readME for any project.
