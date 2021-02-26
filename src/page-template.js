@@ -1,10 +1,17 @@
 
 module.exports = templateData => {
-    const { project, description, install, user, contributing, username, email, license } = templateData;
+    const { project, tests, description, install, user, contributing, username, email, license } = templateData;
         return `
         # Project Title
 
     ${project}
+
+    ## Table of Contents
+
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
 
     ## Description
 
@@ -18,7 +25,7 @@ module.exports = templateData => {
 
     ### Tests
 
-    * $tests
+    * ${tests}
 
     ### Using the Repo
 

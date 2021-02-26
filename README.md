@@ -1,39 +1,46 @@
 
         # Project Title
 
-    kk
+    README Generator
+
+    ## Table of Contents
+
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
 
     ## Description
 
-    kk
+    This a way to easy and effectively make a readME for any project.
 
     ## Getting Started
 
     ### Dependencies
 
-    * kkl
+    * install dep
 
     ### Tests
 
-    * $tests
+    * run tests
 
     ### Using the Repo
 
-    * kk
+    * Please clone repo and use repo respectfully.
 
 
     ## Contributing 
 
-    * kk
+    * Please create own branch and push to that branch before merge.
 
     ## Author
 
     Contributors names and contact info
 
-    kk
-    kk
+    lauren.ivey11
+    lauren.ivey11@gmail.com
 
     ## License
 
-    This project is licensed under the None License - see the LICENSE.md file for details
+    This project is licensed under the GPL 3.0 License - see the LICENSE.md file for details
     
