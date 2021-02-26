@@ -3,6 +3,13 @@
 
     kk
 
+    ## Table of Contents
+
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
+
     ## Description
 
     kk
@@ -11,11 +18,11 @@
 
     ### Dependencies
 
-    * kkl
+    * kk
 
     ### Tests
 
-    * $tests
+    * kk
 
     ### Using the Repo
 
@@ -35,5 +42,6 @@
 
     ## License
 
-    This project is licensed under the None License - see the LICENSE.md file for details
+    This project is licensed under the BSD 3 License - see the LICENSE.md file for details
+    
     
